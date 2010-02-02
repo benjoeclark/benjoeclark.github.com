@@ -1,0 +1,6 @@
+---
+layout: post
+title: init
+---
+
+This post is to indicate the initialization of my blog at github.
