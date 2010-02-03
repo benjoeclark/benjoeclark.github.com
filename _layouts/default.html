@@ -11,12 +11,23 @@
     </head>
     <body>
         <div class="header">
-            <img class="header" src="/images/geo.png" alt="benjoeclark icon" />
-            <h1>benjoeclark</h1>
-            <h2>a journey of learning</h2>
+            <h1 class="header">benjoeclark</h1>
+            <h2 class="header">a journey of learning</h2>
         </div>
-        <div id="container">
+        <div class="nav">
+            <ul class="nav">
+                <li class="nav"><a class="nav" href="/index.html">home</a></li>
+                <li class="nav"><a class="nav" href="/blog.html">blog</a></li>
+                <li class="nav"><a class="nav" href="/links.html">links</a></li>
+                <li class="nav"><a class="nav" href="/about.html">about</a></li>
+            </ul>
+        </div>
+        <div class="container">
             {{ content }}
+        </div>
+        <div class="footer">
+            hosted by <a class="footer" href="http://github.com">github</a> and
+            <a class="footer" href="http://github.com/mojombo/jekyll">jekyll</a> powered
         </div>
     </body>
 </html>
