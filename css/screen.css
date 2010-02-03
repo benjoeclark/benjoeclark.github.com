@@ -15,52 +15,49 @@ div
     margin-left: auto;
     margin-right: auto;
 }
-div.header
+/* header */
+div#header
 {
     background-image: url(/images/gradient.png);
     background-repeat: repeat-y;
     width: 640px;
 }
-img.header
-{
-    float: left;
-    width: 100px;
-}
-h1.header
+#header h1
 {
     text-align: left;
 }
-h2.header
+#header h2
 {
     text-align: right;
     color: white;
 }
-div.nav
+/* nav bar */
+div#nav
 {
     width: 400px;
 }
-ul.nav
+#nav ul
 {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
-li.nav
+#nav li
 {
     float: left;
 }
-a.nav
+#nav a
 {
     font-size: 1.5em;
     display: block;
     width: 100px;
 }
-div.container
+div#container
 {
     width: 640px;
 }
-div.footer
+div#footer
 {
     width: 400px;
 }
