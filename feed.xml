@@ -1,0 +1,23 @@
+---
+layout: nil
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+<channel>
+    <title>benjoeclark</title>
+    <link>http://benjoeclark.github.com/</link>
+    <description>Feed for benjoeclark blog</description>
+    <lastBuildDate>{{ site.time | date_to_xmlschema }}</lastBuildDate>
+    <language>en-us</language>
+
+    {% for post in site.posts %}
+    <item>
+        <title>{{ post.title }}</title>
+        <link href="http://benjoeclark.github.com{{ post.url }}" />
+        <pubDate>{{ post.date | date_to_xmlschema }}</pubDate>
+        <description>{{ post.content | xml_escape }}</description>
+    </item>
+    {% endfor %}
+</channel>
+</rss>
