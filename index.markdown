@@ -3,13 +3,12 @@ layout: default
 title: benjoeclark
 ---
 
-{% for post in site.posts limit:5 %}
-
 posts
 =====
+{% for post in site.posts limit:5 %}
+
 [{{ post.title }}]({{ post.url }})
 ----------------------------------
-{{ post.content }}
 *posted on {{ post.date | date_to_long_string }}*
 
 {% endfor %}
