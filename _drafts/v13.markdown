@@ -1,0 +1,26 @@
+---
+layout: post
+title: Dell v13 setup
+categories:
+- v13
+- linux
+---
+
+Features
+--------
+
+### Pros
+### Cons
+
+Setup
+-----
+Get rid of data and backup partitions
+
+Ubuntu 9.10 out of the box (with proprietary driver update)
+
+### Arch
+* dwm
+* slim
+* dmenu
+
+### Dual screens
