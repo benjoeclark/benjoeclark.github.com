@@ -1,0 +1,20 @@
+---
+layout: post
+title: dell v13
+---
+
+Just over a month ago, I received my [Dell v13](http://www.dell.com/us/en/business/notebooks/vostro-v13/pd.aspx?refid=vostro-v13&cs=04&s=bsd) with Ubuntu 9.10 preinstalled.  I was in the market for a netbook or ultraportable for school and came across [several](http://www.engadget.com/2009/12/08/dell-vostro-v13-hands-on-impressions-yes/) [announcements](http://gizmodo.com/5421997/dell-vostro-v13-hands-on-bruce-waynes-laptop) for the v13.
+
+It met all of my requirements:
+* light (about 3.5 lb)
+* small (about the width and length of a small folder)
+* battery life of at least 4 hours
+* minimum resolution of 1366x768
+
+And some of my wishes:
+* Linux preinstalled
+* thin (about 3/4 inch thick)
+
+Below is my current setup with [Arch Linux](http://www.archlinux.org/) running the minimalist window manager [dwm](http://dwm.suckless.org/)
+
+![My Dell v13 with Arch Linux and dwm](/images/v13.png)
