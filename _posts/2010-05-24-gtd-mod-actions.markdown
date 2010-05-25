@@ -27,5 +27,5 @@ To keep me from having to look at each item on the actions list every time, each
 * 1 - computer
 * house - home
 * desk - work
-* > - out (errand)
+* \> - out (errand)
 * cross - church
