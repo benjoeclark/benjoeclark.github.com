@@ -23,9 +23,9 @@ If an action is on the list for more than a couple of days, it needs to be evalu
 Contexts
 --------
 To keep me from having to look at each item on the actions list every time, each action has an icon at the start of the line.  The contexts that I use are:
-* 0 - anywhere
-* 1 - computer
+* zero - anywhere
+* one - computer
 * house - home
 * desk - work
-* \> - out (errand)
+* greater-than - out (errand)
 * cross - church
