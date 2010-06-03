@@ -19,4 +19,5 @@ Although it is tempting to put things I want to get done on a certain day on the
 * meetings (with meeting time)
 * due dates
 * holidays/events
+
 All of these things must be handled on that day, which is why they are on the calendar.  The bottom right corner is not used by a day so it can be used for things that need to be handled during the week but not on a particular day.
