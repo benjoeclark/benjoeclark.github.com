@@ -7,11 +7,11 @@ categories:
 
 ![GTD-mod Weekly Goals](/images/gtd-mod-weekly-goals.png)
 
-The last post described the [weekly calendar](/_posts/2010-06-02-gtd-mod-weekly-calendar) that held deadlines for a week.  On the other side of that card is a list of active projects and goals for them during the same week.  Each day, both sides of this card are used to update the [actions] card.  If all actions have been completed, the project goals can be referenced and more actions generated.
+The last post described the [weekly calendar](/_posts/2010-06-02-gtd-mod-weekly-calendar.html) that held deadlines for a week.  On the other side of that card is a list of active projects and goals for them during the same week.  Each day, both sides of this card are used to update the [actions](/_posts/2010-05-24-gtd-mod-actions.html) card.  If all actions have been completed, the project goals can be referenced and more actions generated.
 
 Projects
 --------
-Projects in the [GTD] sense are things that need to be accomplished that require more than one action to be considered complete.  These projects are kept on an additional list until they are completed.  Projects that are active are placed on the weekly goals card along with a list of things to accomplish this week that move the project toward completion.
+Projects in the [GTD](http://www.davidco.com/what_is_gtd.php) sense are things that need to be accomplished that require more than one action to be considered complete.  These projects are kept on an additional list until they are completed.  Projects that are active are placed on the weekly goals card along with a list of things to accomplish this week that move the project toward completion.
 
 Weekly Goals Contents
 ------------------------
