@@ -7,7 +7,7 @@ categories:
 
 ![GTD-mod Weekly Goals](/images/gtd-mod-weekly-goals.png)
 
-The last post described the [weekly calendar](/gtd/2010/06/023gtd-mod-weekly-calendar.html) that held deadlines for a week.  On the other side of that card is a list of active projects and goals for them during the same week.  Each day, both sides of this card are used to update the [actions](/gtd/2010/05/24/gtd-mod-actions.html) card.  If all actions have been completed, the project goals can be referenced and more actions generated.
+The last post described the [weekly calendar](/gtd/2010/06/03/gtd-mod-weekly-calendar.html) that held deadlines for a week.  On the other side of that card is a list of active projects and goals for them during the same week.  Each day, both sides of this card are used to update the [actions](/gtd/2010/05/24/gtd-mod-actions.html) card.  If all actions have been completed, the project goals can be referenced and more actions generated.
 
 Projects
 --------
