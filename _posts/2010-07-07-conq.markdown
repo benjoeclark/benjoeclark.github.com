@@ -15,10 +15,17 @@ Being a small game, there is no back story.  You are the blue nation trying to i
 How to Play
 -----------
 The first order of business is to send some of your home garrison to another planet to start it generating more fleets for you to use.  When you click and drag from one of your planets to another, it will send a percentage of the fleet to the other planet.  It will then be shown as a fleet traveling to a target with a line showing where it is headed.
-[!Screenshot 1](/images/conq-1.png)
+
+![Screenshot 1](/images/conq-1.png)
+
 The garrison is the size of a fleet surrounding a planet.  Its size is shown as the thickness of the ring around the planet
-[!Screenshot 2](/images/conq-2.png)
+
+![Screenshot 2](/images/conq-2.png)
+
 The larger the planet is, the faster it will generate fleets in the garrison.  When a planet's garrison nearly touches the planet surface, it will no longer generate additional fleets.  Different planets have different atmosphere sizes so they can handle different garrison sizes.
-[!Screenshot 3](/images/conq-3.png)
+
+![Screenshot 3](/images/conq-3.png)
+
 The game is over when you have conquered all planets and no more enemy fleets are in transit to attack.  Either that or you have been conquered.
-[!Screenshot 4](/images/conq-4.png)
+
+![Screenshot 4](/images/conq-4.png)
