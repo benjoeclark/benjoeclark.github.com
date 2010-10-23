@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GTD-Mod Calendar
+title: GTD-mod Calendar
 categories:
 - gtd
 ---
